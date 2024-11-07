@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache files
+*.cache
+*.pkl
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE / Editor directories and files
+.idea/
+.vscode/
+*.swp
+.DS_Store
